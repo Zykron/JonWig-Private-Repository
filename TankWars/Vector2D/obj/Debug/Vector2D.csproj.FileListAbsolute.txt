@@ -1,0 +1,16 @@
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\Vector2D\bin\Debug\Vector2D.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\Vector2D\bin\Debug\Vector2D.pdb
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\Vector2D\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\Vector2D\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\Vector2D\obj\Debug\Vector2D.csprojAssemblyReference.cache
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\Vector2D\obj\Debug\Vector2D.csproj.CopyComplete
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\Vector2D\obj\Debug\Vector2D.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\Vector2D\obj\Debug\Vector2D.pdb
+C:\Users\Jonathan Wigderson\Source\Repos\JonWig-Private-Repository\TankWars\Vector2D\bin\Debug\Vector2D.dll
+C:\Users\Jonathan Wigderson\Source\Repos\JonWig-Private-Repository\TankWars\Vector2D\bin\Debug\Vector2D.pdb
+C:\Users\Jonathan Wigderson\Source\Repos\JonWig-Private-Repository\TankWars\Vector2D\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan Wigderson\Source\Repos\JonWig-Private-Repository\TankWars\Vector2D\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonathan Wigderson\Source\Repos\JonWig-Private-Repository\TankWars\Vector2D\obj\Debug\Vector2D.csprojAssemblyReference.cache
+C:\Users\Jonathan Wigderson\Source\Repos\JonWig-Private-Repository\TankWars\Vector2D\obj\Debug\Vector2D.csproj.CopyComplete
+C:\Users\Jonathan Wigderson\Source\Repos\JonWig-Private-Repository\TankWars\Vector2D\obj\Debug\Vector2D.dll
+C:\Users\Jonathan Wigderson\Source\Repos\JonWig-Private-Repository\TankWars\Vector2D\obj\Debug\Vector2D.pdb

@@ -1,0 +1,8 @@
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkController\bin\Debug\netstandard2.0\NetworkController.deps.json
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkController\bin\Debug\netstandard2.0\NetworkController.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkController\bin\Debug\netstandard2.0\NetworkController.pdb
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.csprojAssemblyReference.cache
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.AssemblyInfoInputs.cache
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.AssemblyInfo.cs
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.pdb

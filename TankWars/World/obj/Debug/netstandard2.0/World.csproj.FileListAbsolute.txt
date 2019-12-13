@@ -1,0 +1,5 @@
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\World\bin\Debug\netstandard2.0\World.deps.json
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\World\bin\Debug\netstandard2.0\World.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\World\obj\Debug\netstandard2.0\World.csprojAssemblyReference.cache
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\World\obj\Debug\netstandard2.0\World.AssemblyInfoInputs.cache
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\TankWars\World\obj\Debug\netstandard2.0\World.AssemblyInfo.cs

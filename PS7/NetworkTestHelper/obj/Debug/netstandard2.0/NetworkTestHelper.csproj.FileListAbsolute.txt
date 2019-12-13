@@ -1,0 +1,11 @@
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\bin\Debug\netstandard2.0\NetworkTestHelper.deps.json
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\bin\Debug\netstandard2.0\NetworkTestHelper.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\bin\Debug\netstandard2.0\NetworkTestHelper.pdb
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\bin\Debug\netstandard2.0\NetworkController.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\bin\Debug\netstandard2.0\NetworkController.pdb
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\obj\Debug\netstandard2.0\NetworkTestHelper.csprojAssemblyReference.cache
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\obj\Debug\netstandard2.0\NetworkTestHelper.AssemblyInfoInputs.cache
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\obj\Debug\netstandard2.0\NetworkTestHelper.AssemblyInfo.cs
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\obj\Debug\netstandard2.0\NetworkTestHelper.csproj.CopyComplete
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\obj\Debug\netstandard2.0\NetworkTestHelper.dll
+C:\Users\Jonathan Wigderson\Source\Repos\u11903382\PS7\NetworkTestHelper\obj\Debug\netstandard2.0\NetworkTestHelper.pdb
